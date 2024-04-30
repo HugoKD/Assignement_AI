@@ -1,4 +1,4 @@
-# TP sur les différentes stratégie de recherche (UFS,BFS,DFS, Recherche A*, conception d'heuristique non triviale)
+# TP sur les différentes stratégies de recherche (UFS,BFS,DFS, Recherche A*, conception d'heuristique non triviale)
 <br><br>
 Application sur un plateau du jeu Pacman 
 <br><br>
